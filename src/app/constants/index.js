@@ -10,8 +10,8 @@ import binance from '../assets/icons/binance.png';
 import coinbase from '../assets/icons/coinbase.png';
 import dropbox from '../assets/icons/dropbox.png';
 import send from '../assets/icons/Send.svg';
-import shield from '../assets/icons/shield.svg';
-import star from '../assets/icons/star.svg';
+import shield from '../assets/icons/Shield.svg';
+import star from '../assets/icons/Star.svg';
 
 
 export const navLinks = [
