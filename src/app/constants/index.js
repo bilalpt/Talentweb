@@ -13,6 +13,18 @@ import send from '../assets/icons/Send.svg';
 import shield from '../assets/icons/Shield.svg';
 import star from '../assets/icons/Star.svg';
 
+// company logorea
+import Careercafe from '../assets/logos/Careercafe.png'
+import CEOSquare from '../assets/logos/CEOSquare.png'
+import FLYRAD from '../assets/logos/FLYRAD.png'
+import incubenation from '../assets/logos/incubenation.png'
+import Franchisify from '../assets/logos/Franchisify.png'
+import iQueCAP from '../assets/logos/iQueCAP.png'
+import KaruMitraLogo from '../assets/logos/KaruMitraLogo.png'
+import logoBESTTRACT from '../assets/logos/logoBESTTRACT.png'
+import SIB from '../assets/logos/SIB.png'
+
+
 
 export const navLinks = [
   {
@@ -110,19 +122,39 @@ export const feedback = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: Careercafe,
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: FLYRAD,
   },
   {
     id: "client-3",
-    logo: coinbase,
+    logo: incubenation,
   },
   {
     id: "client-4",
-    logo: dropbox,
+    logo: CEOSquare,
+  },
+    {
+    id: "client-5",
+    logo: Franchisify,
+  },
+  {
+    id: "client-6",
+    logo: SIB,
+  },
+  {
+    id: "client-7",
+    logo: logoBESTTRACT,
+  },
+  {
+    id: "client-8",
+    logo: KaruMitraLogo,
+  },
+    {
+    id: "client-9",
+    logo: iQueCAP,
   },
 ];
 
